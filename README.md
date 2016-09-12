@@ -1,6 +1,6 @@
 # Project - *HTML5 Video Player*
 
-**HTML5 Video Player: ** Create An HTML5 Video Player From Scratch
+**HTML5 Video Player** - Create An HTML5 Video Player From Scratch
 
 Time spent: **??** hours spent in total
 
